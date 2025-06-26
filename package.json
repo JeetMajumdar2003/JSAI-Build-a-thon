@@ -1,0 +1,27 @@
+{
+    "type": "module",
+    "name": "jsai-build-a-thon",
+    "version": "1.0.0",
+    "description": "JavaScript AI Build-a-thon || The JS AI Build-a-thon — an epic learning journey crafted for JavaScript and Typescript developers who want to step confidently into the world of AI.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "@azure-rest/ai-inference": "latest",
+        "@azure/core-auth": "latest",
+        "@azure/core-sse": "latest",
+        "dotenv": "^16.5.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JeetMajumdar2003/JSAI-Build-a-thon.git"
+    },
+    "keywords": [],
+    "author": "Jeet Majumdar",
+    "bugs": {
+        "url": "https://github.com/JeetMajumdar2003/JSAI-Build-a-thon/issues"
+    },
+    "homepage": "https://github.com/JeetMajumdar2003/JSAI-Build-a-thon#readme",
+    "license": "ISC"
+}
